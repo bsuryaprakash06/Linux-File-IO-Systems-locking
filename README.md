@@ -170,7 +170,7 @@ int main(int argc, char *argv[]) {
 ![alt text](image.png)
 
 
-
+![alt text](image-1.png)
 
 # RESULT:
 The programs are executed successfully.
